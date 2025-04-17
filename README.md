@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Ranjan Kumar Rath<br><br>I'm a full-stack web developer with 3+ years of experience in building clean, scalable, and user-friendly applications.<br><br>💻 Tech Stack:<br>React Laravel CodeIgniter WordPress PHP MySQL JavaScript HTML CSS<br><br>🔨 What I Do:<br><br>    Build responsive frontends with React<br><br>    Develop RESTful APIs using Laravel and CodeIgniter<br><br>    Create custom WordPress themes & plugins<br><br>    Maintain clean, modular, and reusable code<br><br>🌱 Currently Learning: Advanced React & Laravel ecosystem tools<br>🚀 Open to: Collaborations, freelance projects, and tech discussions<br>📍 Location: Bhubaneswar, India
+👋 Hi, I'm Ranjan Kumar Rath<br><br>I'm a full-stack web developer with 3+ years of experience in building clean, scalable, and user-friendly applications.<br><br>💻 Tech Stack:<br>React  CodeIgniter WordPress Shopify PHP MySQL JavaScript HTML CSS<br><br>🔨 What I Do:<br><br>    Build responsive frontends with React<br><br>    Develop RESTful APIs using  CodeIgniter<br><br>    Create custom WordPress themes & plugins<br><br>    Maintain clean, modular, and reusable code<br><br>🌱 Currently Learning:  React <br>🚀 Open to: Collaborations, freelance projects, and tech discussions<br>📍 Location: Bhubaneswar, India
 
 
 ## 🌐 Socials:
